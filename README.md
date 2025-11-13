@@ -51,7 +51,7 @@ Top 10 Products by Sales (Bar Chart)
 
 (You can add screenshots here later using)
 
-![Dashboard](dashboard.png)
+![Dashboard](https://github.com/Hacksbos/-Diwali-Sales-Analysis-using-Python/blob/main/Screenshot%202025-11-14%20004338.png)
 
 🚀 How to Run
 
